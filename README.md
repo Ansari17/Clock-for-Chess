@@ -1,2 +1,3 @@
-# Clock-for-Chess
-Electronic clock for Chess
+# Chess Clock
+Electronic clock for playing Chess.
+# Description
