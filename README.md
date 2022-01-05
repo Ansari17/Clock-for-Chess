@@ -11,4 +11,4 @@ Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
 https://codepen.io/
 https://getbootstrap.com/
 https://flexbox.malven.co/
-
+![image](https://user-images.githubusercontent.com/75885389/148269234-e4ea125f-b94f-4e98-ab94-137a3606493e.png)
