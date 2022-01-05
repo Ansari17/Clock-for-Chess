@@ -6,7 +6,8 @@ We thought about the idea of the project for a very long time and decided to cre
 Here some screenshots of our web application:
 ![image](https://user-images.githubusercontent.com/75885389/148269785-0fb626c4-0ecd-4a67-be72-881ffb3e2e2a.png)
 ![image](https://user-images.githubusercontent.com/75885389/148269851-40c33f61-f715-4453-9f47-c53c386273a2.png)
-
+![image](https://user-images.githubusercontent.com/75885389/148270061-1da07b63-4c0f-4ddf-b0c6-71121fd08296.png)
+![image](https://user-images.githubusercontent.com/75885389/148270153-a5928a52-7c0f-4c89-8511-cd5cbcb4487d.png)
 
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com
