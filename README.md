@@ -10,17 +10,11 @@ Here some screenshots of our web application:
 ![image](https://user-images.githubusercontent.com/75885389/148270153-a5928a52-7c0f-4c89-8511-cd5cbcb4487d.png)
 # Tutorial for creating Web application “Chess Clock”
 [Tutorial Chess Clock.docx](https://github.com/Ansari17/Clock-for-Chess/files/7817057/Tutorial.Chess.Clock.docx)  
-Or you can watch our video in YouTube:
+# Video on Youtube
+You can also watch our YouTube video, where we also explane all step by step:
 https://youtu.be/XOs6AkxhxhA
 # Presentation  
 [chess clock.pdf](https://github.com/Ansari17/Clock-for-Chess/files/7819901/chess.clock.pdf)
-#video feedbacks  
-
-
-
-https://user-images.githubusercontent.com/75970608/148339458-a5432eb6-8e7f-4c3f-9036-90ca03269901.mp4
-
-
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
