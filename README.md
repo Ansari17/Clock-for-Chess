@@ -13,7 +13,7 @@ Here some screenshots of our web application:
 Or you can watch our video in YouTube:
 https://youtu.be/XOs6AkxhxhA
 # Contact
-Ansari Kurbanova- @ansarikurbanova@gmail.com
+Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
 # Acknowledgments
 https://codepen.io/
