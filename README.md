@@ -16,7 +16,7 @@ https://youtu.be/XOs6AkxhxhA
 # Presentation  
 [chess clock.pdf](https://github.com/Ansari17/Clock-for-Chess/files/7819901/chess.clock.pdf)
 # Feedbacks
-https://drive.google.com/file/d/1lu1mbOEd_X4NJ95yB2K-GAlMcbDIUztc/view?usp=sharing
+https://drive.google.com/drive/folders/1PJRiO11LDnzbN62IF7dnhceUQvk2Z94n?usp=sharing
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
