@@ -15,11 +15,16 @@ You can also watch our YouTube video, where we also explane all step by step:
 https://youtu.be/XOs6AkxhxhA
 # Presentation  
 [chess clock.pdf](https://github.com/Ansari17/Clock-for-Chess/files/7819901/chess.clock.pdf)
-# Video Feedbacks
+# Feedbacks
+
+
+https://user-images.githubusercontent.com/75970608/148340376-95f841bf-b49d-49dd-a857-d1279d0c64fb.mp4
+
+
+
 https://user-images.githubusercontent.com/75970608/148339907-4307975f-987b-4973-935d-aaf311a9bebe.mp4
-# Text feedbacks  
-![Screenshot_20220106-111907 (1)](https://user-images.githubusercontent.com/75885389/148340122-1a7a399f-27e6-46c6-a9c3-0710e1fd8ae7.png)
-![Screenshot_20220106-112003 (1)](https://user-images.githubusercontent.com/75885389/148340136-a406322b-bf36-4e37-a9ff-05f9cb278746.png)
+
+
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
