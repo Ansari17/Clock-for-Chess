@@ -18,7 +18,7 @@ https://youtu.be/XOs6AkxhxhA
 # Feedbacks
 https://drive.google.com/drive/folders/1PJRiO11LDnzbN62IF7dnhceUQvk2Z94n?usp=sharing
 # Team Members
-Ansari Kurbanova
+Ansari Kurbanova,
 Fatima Jurabaeva
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
