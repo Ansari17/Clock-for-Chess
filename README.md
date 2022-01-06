@@ -9,13 +9,13 @@ Here some screenshots of our web application:
 ![image](https://user-images.githubusercontent.com/75885389/148270061-1da07b63-4c0f-4ddf-b0c6-71121fd08296.png)
 ![image](https://user-images.githubusercontent.com/75885389/148270153-a5928a52-7c0f-4c89-8511-cd5cbcb4487d.png)
 # Tutorial for creating Web application “Chess Clock”
-[Tutorial Chess Clock.docx](https://github.com/Ansari17/Clock-for-Chess/files/7817057/Tutorial.Chess.Clock.docx)
+[Tutorial Chess Clock.docx](https://github.com/Ansari17/Clock-for-Chess/files/7817057/Tutorial.Chess.Clock.docx)  
 Or you can watch our video in YouTube:
 https://youtu.be/XOs6AkxhxhA
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
-# Acknowledgments
-https://codepen.io/
-https://getbootstrap.com/
+# Acknowledgments  
+https://codepen.io/  
+https://getbootstrap.com/  
 https://flexbox.malven.co/
