@@ -2,6 +2,9 @@
 Electronic clock for playing Chess.
 # Description
 We thought about the idea of the project for a very long time and decided to create an electronic clock for playing chess. This idea came as a result of the fact that recently we had a Chess Tournament at our Ala-Too international university(AIU) and since there were many people willing and, accordingly, there were not enough watches (mechanical) for everyone and without them the game was longer, that is, there was not enough time control and we decided to create an electronic clock for our university. Everyone can use this web application and this makes it comfortable and useful.
+# Team Members
+Ansari Kurbanova,
+Fatima Jurabaeva
 # Screenshots
 Here some screenshots of our web application:
 ![image](https://user-images.githubusercontent.com/75885389/148269785-0fb626c4-0ecd-4a67-be72-881ffb3e2e2a.png)
@@ -17,9 +20,6 @@ https://youtu.be/XOs6AkxhxhA
 [chess clock.pdf](https://github.com/Ansari17/Clock-for-Chess/files/7819901/chess.clock.pdf)
 # Feedbacks
 https://drive.google.com/drive/folders/1PJRiO11LDnzbN62IF7dnhceUQvk2Z94n?usp=sharing
-# Team Members
-Ansari Kurbanova,
-Fatima Jurabaeva
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
