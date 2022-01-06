@@ -12,6 +12,8 @@ Here some screenshots of our web application:
 [Tutorial Chess Clock.docx](https://github.com/Ansari17/Clock-for-Chess/files/7817057/Tutorial.Chess.Clock.docx)  
 Or you can watch our video in YouTube:
 https://youtu.be/XOs6AkxhxhA
+# Presentation  
+[chess clock.pdf](https://github.com/Ansari17/Clock-for-Chess/files/7819901/chess.clock.pdf)
 # Contact
 Ansari Kurbanova- @ansarikurbanova@gmail.com  
 Fatimakhon Zhuraboeva- @fatimakhon.zhuraboeva@alatoo.edu.kg
