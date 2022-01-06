@@ -1,0 +1,142 @@
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    margin: 0;
+    display: inline-flex;
+    align-content: center;
+    align-items: center;
+    background-size: cover;
+    background-image: url("back.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    margin: 0px auto 20px auto;
+    width: 50%;
+    text-align: center;
+    font-size: 32pt;
+    display: flex;
+  justify-content: center;
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color:#800000;
+    color: whitesmoke;
+    padding: 15px;
+    text-align: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main {
+    width: 75%;
+    margin: auto;
+    padding: 35px 0px;
+    background-color: #f9f9f9cc;    
+}
+
+#mainMenu button {
+    background-color: #191970;
+    border: 0;
+    color: #fefbef;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    border-radius: 10px;
+    width: 75%;
+    padding: 30px 0px;
+    margin: 10px;
+    font-size: 20pt;
+}
+
+
+table{
+    width: 100%;
+}
+td{
+    vertical-align: center;
+    text-align: center;
+}
+
+
+.hidden{
+    display: none;
+    position: absolute;
+    top: -200vh;
+}
+
+
+#timerTitle{
+    margin: 0px auto 50px auto;
+}
+
+#gamer1Time , #gamer2Time  {
+    width: 33%;
+    font-size: 65pt;
+    text-align: center;
+    display: inline-block;
+}
+
+#startButton {
+    width: 33%;
+    font-size: 45pt;
+    vertical-align: super;
+    background-color: #191970;
+    border: 0;
+    color: #fefbef;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+}
+
+#backButton {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+#backButton button{
+    font-size: 45pt;
+    vertical-align: super;
+    background-color: #191970;
+    border: 0;
+    color: #fefbef;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#gameButtons {
+    display: inline-block;
+    width: 33%;
+    vertical-align: top;
+}
+
+#switchButton , #pauseButton{
+    display: block;
+    width: 100%;
+    background-color: #191970;
+    border: 0;
+    color: #fefbef;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 24pt;
+} 
+
+#switchButton{
+    margin-bottom: 20px;
+}
+
+
+.currentTurn{
+    text-decoration: underline;
+}
+img{
+  height:115px;
+  padding:20px;
+}

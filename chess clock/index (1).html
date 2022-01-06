@@ -1,0 +1,51 @@
+<html>
+    <head>
+
+        <meta charset="utf-8" />
+        <title>Chess Clock</title>
+
+        <link href="style.css" rel="stylesheet" />
+		<script type="text/javascript" src="script.js"></script>
+        
+    </head>
+
+    <body>
+        <div id="main">
+            <table id="mainMenu">
+                <tr><th colspan="2"><h1 id="header"> 
+      <img src="https://st-1.akipress.org/st_all/bilim/9/1519540999.2.jpg"alt="">
+         Chess Tournament of AIU</h1></th></tr>
+                <tr>
+                    
+                    <td><button id="10Min" onclick="Start10Min()">10 Minutes</button></td>
+                </tr>   
+                
+                <tr>
+                    <td><button id="30Min" onclick="Start30Min()">30 Minutes</button></td>
+                </tr>   
+            </table>
+
+            <div id ="timer" class="hidden">
+                <div id="playArea">
+                    <h1 id="timerTitle">Test</h1>
+                    <div id="gamer1Time"></div>
+                    <button id="startButton" onclick="StartGame()">Start</button>
+                    <div id="gameButtons" class="hidden">
+                        <button id="switchButton" onclick="Switch()">Switch</button>
+                        <button id="pauseButton"  onclick="Pause()">Pause</button>
+                    </div>
+                    <div id="gamer2Time"></div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div id="backButton" class="hidden">
+                <button onclick="GoBack()">&#8592; Back</button>
+        </div>
+    <footer>Created by Ansari, Fatima MAT-20.</footer>
+    </body>
+
+
+    
+    </html>
